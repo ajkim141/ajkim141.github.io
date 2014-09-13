@@ -1,0 +1,185 @@
+<!doctype html>
+<head>
+  <meta charset="utf-8">
+  <title>Alex Kim</title>
+  <link rel="stylesheet" href="/flask-ghpages-example/static/css/style.css">
+  
+
+</head>
+<body class="box">
+
+<nav class="nav-menu">
+    <ul>
+        <li><a href="/flask-ghpages-example/">Home</a></li>
+        <li><a href="/flask-ghpages-example/resume">Resume</a></li>
+        <li><a href="https://github.com/ajkim141/ajkim141.github.io">Source</a></li>
+        <li><a href="https://github.com/ajkim141/">Github Profile</a></li>
+    </ul>
+</nav>
+
+<div class="container">
+
+  <div class="content" role="main">
+    
+    <h1>
+        <center>
+            Alex Kim
+        </center>
+    </h1>
+    <p>
+        <center>
+            Hamden, CT • (203) 530-6273 • ajkim141@gmail.com • ajkim141.blogspot.com
+        </center>
+    </p>
+    <hr>
+    <h1>
+        Education
+    </h1>
+    <u>
+        Worcester Polytechnic Institute, Worcester, MA
+    </u>
+    <ul>
+        <li>
+            Bachelor of Science in Interactive Media and Game Development, with Distinction,	May 2014
+        </li>
+        <li>
+            GPA: 3.42
+        </li>
+    </ul>
+    <hr>
+    <h1>
+        Projects
+    </h1>
+    <p>
+        <u>
+            Osaka University, Osaka, Japan <br>
+        </u>
+        June - October 2013 <br>
+        Game Designer & Artist
+    </p>
+    <ul>
+        <li>
+            Collaborated with four other students to create a mobile multiplayer application targeted for Android OS, intended for users to play on train commutes.
+        </li>
+        <li>
+            Lead the design and creation of two-dimensional art assets in Adobe Photoshop; authored the application specification report.
+        </li>
+        <li>
+            Assisted in application architecture and QA process.
+        </li>
+        <li>
+            Participated in the presentation (PowerPoint) and live demonstration of the application of Osaka University professors and graduate students.
+        </li>
+        <li>
+            Report, Presentation & Source: <a href="http://www.wpi.edu/Pubs/E-project/Available/E-project-110813-143928/">http://www.wpi.edu/Pubs/E-project/Available/E-project-110813-143928/</a>
+        </li>
+    </ul>
+    <p>
+        <u>
+            Venice Mobility Department, Venice, Italy<br>
+        </u>
+        October - December 2012 <br>
+        Researcher & Web Manager
+    </p>
+    <ul>
+        <li>
+            Collaborated with an interdisciplinary team to observe and analyze pedestrian traffic patterns within the city; presented findings to city officials.
+        </li>
+        <li>
+            Created and managed web pages with information on major city streets.
+        </li>
+        <li>
+            Established a foundation for future projects.
+        </li>
+        <li>
+            Final Paper: <a href="http://www.wpi.edu/Pubs/E-project/Available/E-project-121412-161950/">http://www.wpi.edu/Pubs/E-project/Available/E-project-121412-161950/</a>
+        </li>
+    </ul>
+    <hr>
+    <h1>
+        Experience
+    </h1>
+    <p>
+        <u>
+            Bracedr, PC, Hamden, Connecticut<br>
+        </u>
+        May - August 2012<br>
+        Software Developer
+    </p>
+    <ul>
+        <li>
+            Adapted an educational CD-I program into a comprehensive PowerPoint application.
+        </li>
+        <li>
+            Used to teach orthodontic patients about proper dental care while wearing braces.
+        </li>
+    </ul>
+    <p>
+        <u>
+            CRN International, Hamden, CT<br>
+        </u>
+        May - August 2010<br>
+        Information Technology Intern
+    </p>
+    <ul>
+        <li>
+            Assisted senior IT staff in performing software updates and maintenance.
+        </li>
+        <li>
+            Constructed new computers to company specifications.
+        </li>
+    </ul>
+    <p>
+        <u>
+            National Computer Camps, Fairfield, CT, Atlanta, GA<br>
+        </u>
+            June - July 2009, 2011<br>
+            Camp Counselor
+    </p>
+    <ul>
+        <li>
+            Set up computers before camper arrival.
+        </li>
+        <li>
+            Instructed campers in basic Java, C++, Multimedia Fusion 2 and 3D Game Studio.
+        </li>
+    </ul>
+    <hr>
+    <h1>
+        Technical Skills
+    </h1>
+    <ul>
+        <li>
+            <b>3D Design:</b> Maya, 3DS Max, Zbrush
+        </li>
+        <li>
+            <b>Visual Design:</b> GIMP, Photoshop
+        </li>
+        <li>
+            <b>Audio Design:</b> Audacity, Reaper
+        </li>
+        <li>
+            <b>Game Engines:</b> Neverwinter Nights 2 Editor Unity, Unreal 3
+        </li>
+        <li>
+            <b>Hardware:</b> Desktop Computer Assembly
+        </li>
+        <li>
+            <b>Microsoft Office:</b> Excel, PowerPoint, Word
+        </li>
+        <li>
+            <b>Exposure To:</b> Flash, Java, C++
+        </li>
+    </ul>
+    <hr>
+    <h1>
+        Relevant Coursework
+    </h1>
+    3D Modeling I & II, Advanced Storytelling in Games, Animation I & II Artistic Game Development I & II, Concept Art, Creative Writing & Creative Writing in Science Fiction, Fantasy and Horror, Design of Tabletop Strategy Games, Digital Game Design, Digital Painting, Figure Drawing, Game Audio I
+
+  </div>
+
+</div><!-- end container -->
+<script src="/flask-ghpages-example/static/js/script.js"></script>
+</body>
+</html>
