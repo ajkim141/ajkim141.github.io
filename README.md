@@ -1,2 +1,5 @@
-ajkim141.github.io
-==================
+# README
+
+# Inspired By
+
+https://github.com/sloria/flask-ghpages-example
