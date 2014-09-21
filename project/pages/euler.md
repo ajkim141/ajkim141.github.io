@@ -19,13 +19,8 @@ Links below to iPython Notebook viewer for my answers.
 
 - [Link to problem 10](http://nbviewer.ipython.org/github/ajkim141/project_euler/blob/master/Problem10.ipynb)
 
-<!---
-
 - [Link to problem 12](http://nbviewer.ipython.org/github/ajkim141/project_euler/blob/master/Problem12.ipynb)
 
-Problem 12 has the same problem as 10. It is correct within smaller number ranges, but it is too inefficient to be run for larger ranges.
-
--->
 
 [Source](https://github.com/ajkim141/project_euler)
 
