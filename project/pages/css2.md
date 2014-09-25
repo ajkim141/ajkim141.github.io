@@ -6,4 +6,4 @@ I'm also experimenting with link hovering and some new styling on the resume pag
 page to be interesting, it has to be simple enough that it remains easy to digest. As far as all the teal goes, I
 personally enjoy teal, but in the future I may experiment with less exotic colors.
 
-[Link to commit]()
+[Link to commit](https://github.com/ajkim141/ajkim141.github.io/commit/0c3b3c08892897dd740513247dbd94bd83cb1169)
