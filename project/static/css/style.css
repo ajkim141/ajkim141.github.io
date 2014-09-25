@@ -32,18 +32,35 @@ li {
   list-style: none;
 }
 
+a:hover {
+  font-weight: 500
+}
+
+nav {
+  background-color: #008B8B;
+  border: 2px solid #008B8B;
+  border-radius: 5px;
+}
+
 nav ul, nav ul li {
   display: inline-block;
   list-style: none;
   margin: 10px 10px;
-  background-color: #008B8B;
-  border: 2px solid #008B8B;
-  border-radius: 10px;
 }
 
 nav ul li a {
   text-decoration: none;
-  font-weight: 400;
+  font-weight: 300;
   text-transform: uppercase;
   color: #ffffff;
+}
+
+.rescat {
+  border: 2px solid #008B8B;
+  border-radius: 5px;
+}
+
+.reshead {
+  color: #008B8B;
+  text-indent: 2.25em;
 }
