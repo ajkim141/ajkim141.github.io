@@ -15,4 +15,4 @@ any post without having to return to the homepage.
 The current site aesthetic is a bit skeletal, and I'm still not sure whether I like it or not. I'm partial to the 
 unified link styling, so I'll most likely keep at least that much in future iterations.
 
-[Link to commit]()
+[Link to commit](https://github.com/ajkim141/ajkim141.github.io/commit/22e524bb71ff7e67e1d07e96c7c2a786b2429c3c)
