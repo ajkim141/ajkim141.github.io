@@ -38,12 +38,15 @@ a {
   text-decoration: none;
   border: 2px solid #008B8B;
   border-radius: 10px;
-  padding: .1em;
+  padding: .15em;
+  margin-top: .1em;
+  margin-bottom: .1em;
   color: black;
 }
 
 a:hover {
-  background-color: #4cadad;
+  background-color: #008B8B;
+  color: #ffffff;
 }
 
 nav {
@@ -62,6 +65,9 @@ nav ul, nav ul li {
 nav ul li a {
   text-decoration: none;
   text-transform: uppercase;
+  padding: .15em;
+  margin-top: .1em;
+  margin-bottom: .1em;
 }
 
 .rescat {
