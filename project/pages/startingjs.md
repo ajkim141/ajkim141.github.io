@@ -1,0 +1,13 @@
+title: Starting Javascript
+date: 2014-09-29 12:19:00
+
+I've made a few small changes to the site over the past few days, but they've all been quick fixes on an as-needed
+basis. I decided none of them were substantial enough to warrant their own posts, but I will make a note of them here.
+I slightly modified the outlined link format to make them more legible, and I discovered that the Linkedin button
+in the header and footer was directing to the wrong location.
+
+Today I've started learning Javascript. Although there is no Javascript currently deployed on this site at the present,
+I have some plans for what I would like to do in the near future. As I add more and more updates and posts, the front
+page is inevitably going to become rather cluttered. One of the first modifications I would like to make is
+automatically sorting the post links on the first page by month and year. After that, I may implement something to
+archive posts older than a certain date.
