@@ -99,10 +99,14 @@ nav ul li a {
   clear: both;
 }
 
+/*
+    Logo animation
+*/
+
 #logo-container {
 
-height: 34em;
-width: 30em;
+    height: 34em;
+    width: 30em;
 
 }
 

@@ -17,7 +17,7 @@ now my greatest aspiration is to learn even more.
   {% for page in pages %}
       <li><a href="{{ url_for('page', path=page.path) }}">
           {{ page.meta.title }}
-      </a>- {{ page.meta.date }}</li>
+      </a> - {{ page.meta.date }}</li>
   {% endfor %}
 </ul>
 {% endblock %}
