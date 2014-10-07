@@ -20,3 +20,7 @@ For a bit of fun, I decided to try experimenting with animation in CSS. Original
 animated logo in the background of every page (with very low opacity), but I decided it might make reading the site more
 difficult. In the future I may redesign the site and add space for a logo, in which case I'll put something like this to
 better use.
+
+Note: The animation in its current state is adapted exactly how it would function as a background logo. Small window
+sizes may cause it to overlap with other elements, as it is meant to appear in the exact center of the screen. In the
+future I may look into a more advanced form of automatic resizing.
