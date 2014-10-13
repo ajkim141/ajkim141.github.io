@@ -12,4 +12,4 @@ links outside of the nav bar no longer have borders at all. The old link borders
 on some browsers, and I felt it would be more aesthetically appealing to revert to a simpler link style than to give
 links additional padding just to accommodate the borders.
 
-[Link to commit]()
+[Link to commit](https://github.com/ajkim141/ajkim141.github.io/commit/cc61bec792f0ea113064310f19b1727d207f21e1)
