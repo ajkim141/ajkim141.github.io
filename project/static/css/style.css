@@ -34,25 +34,46 @@ li {
   margin-bottom: .5em;
 }
 
-a {
-  text-decoration: none;
-  border: 2px solid #008B8B;
-  border-radius: 10px;
+ul.page-list a {
+  color: #008B8B;
+  text-decoration: underline;
+  font-weight: bold;
   padding: .15em;
   margin-top: .1em;
   margin-bottom: .1em;
-  color: black;
 }
 
-a:hover {
-  background-color: #008B8B;
-  color: #ffffff;
+ul.page-list a:hover {
+    color: #00d8d8;
+}
+
+div.resbody a {
+  color: #8b0000;
+  text-decoration: underline;
+  font-weight: bold;
+  padding: .15em;
+  margin-top: .1em;
+  margin-bottom: .1em;
+}
+
+div.resbody a:hover {
+    text-decoration: underline;
+    color: #d80000;
+}
+
+div.resbody h1 {
+  color: #8b0000;
+}
+
+div.resbody h2 {
+  color: #8b0000;
+}
+
+div.resbody b {
+  color: #8b0000;
 }
 
 nav {
-
-  border: 2px solid #008B8B;
-  margin: 20px 0px 20px;
   width: 100%;
 }
 
@@ -70,13 +91,57 @@ nav ul li a {
   margin-bottom: .1em;
 }
 
+.home {
+    color: #008B8B;
+    background-color: #ffffff;
+    border: 2px solid #008B8B;
+    height: 1.5em;
+    width: fit;
+    text-align: center;
+}
+
+.resume {
+    color: #8b0000;
+    background-color: #ffffff;
+    border: 2px solid #8b0000;
+    height: 1.5em;
+    width: fit;
+    text-align: center;
+}
+.other {
+    color: #008b00;
+    background-color: #ffffff;
+    border: 2px solid #008b00;
+    height: 1.5em;
+    width: fit;
+    text-align: center;
+}
+
+.home:hover {
+    color: #ffffff;
+    background-color: #008B8B;
+}
+
+.resume:hover {
+    color: #ffffff;
+    background-color: #8b0000;
+}
+
+.other:hover {
+    color: #ffffff;
+    background-color: #008b00;
+}
+
+.homecat {
+    border: 2px solid #008B8B;
+}
+
 .rescat {
-  border: 2px solid #008B8B;
-  border-radius: 10px;
+  border: 2px solid #8b0000;
 }
 
 .reshead {
-  color: #008B8B;
+  color: #8b0000;
   text-indent: 2.25em;
 }
 
@@ -84,18 +149,19 @@ nav ul li a {
   list-style: none;
 }
 
+.resbody {
+
+}
+
 #dat-loc {
   list-style: none;
 }
 
 #nav-top {
-  border-top-right-radius: 10px;
-  border-top-left-radius: 10px;
+
 }
 
 #nav-bottom {
-  border-bottom-right-radius: 10px;
-  border-bottom-left-radius: 10px;
   clear: both;
 }
 
